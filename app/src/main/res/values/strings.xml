@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CaloriesMonitor</string>
+    <string name="protein">Белки</string>
+    <string name="fat">Жиры</string>
+    <string name="carbohydrate">Углеводы</string>
+    <string name="sueta">sueta</string>
+    <string name="max_calories">Макс. каллорийность</string>
+    <string name="max_carbohydrate">Макс. углеводов</string>
+    <string name="max_protein">Макс. белков</string>
+    <string name="max_fat">Макс. жиров</string>
+</resources>
